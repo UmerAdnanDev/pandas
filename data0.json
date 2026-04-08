@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "John Smith", "age": 32, "department": "Marketing", "salary": 75000, "join_date": "2019-05-12"},
+  {"id": 2, "name": "Emily Davis", "age": 28, "department": "Engineering", "salary": 85000, "join_date": "2020-02-15"},
+  {"id": 3, "name": "Michael Johnson", "age": 41, "department": "Finance", "salary": 92000, "join_date": "2015-11-03"},
+  {"id": 4, "name": "Sarah Wilson", "age": 35, "department": "Marketing", "salary": 78000, "join_date": "2018-07-22"},
+  {"id": 5, "name": "David Brown", "age": 29, "department": "Engineering", "salary": 88000, "join_date": "2021-01-30"},
+  {"id": 6, "name": "Jennifer Lee", "age": 38, "department": "HR", "salary": 68000, "join_date": "2017-09-14"}
+]
