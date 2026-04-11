@@ -14,3 +14,11 @@ print(df[["Name","Salary"]])
 # with condition
 print("Employee with 1 yr + experience")
 print(df[df["Experience"] > 1 ])
+# multi conditions
+print("Employee with 100k <= salary and Age > 25")
+e1 = df[(df["Salary"] >= 100000) & (df["Age"] >= 25)]
+print(e1)
+print("Employee with 100k <= salary or Age > 25")
+e2 = df[(df["Salary"] >= 100000) 
+        | (df["Age"] >= 25)]
+print(e2)
