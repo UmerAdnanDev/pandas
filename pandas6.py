@@ -11,3 +11,6 @@ print("1 column") # series
 print(df["Experience"])
 print("2 column")# data frame
 print(df[["Name","Salary"]])
+# with condition
+print("Employee with 1 yr + experience")
+print(df[df["Experience"] > 1 ])
